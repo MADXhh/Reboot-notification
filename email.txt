@@ -1,0 +1,5 @@
+To: user@mail.com
+From: "Server" <server@mail.com>
+Subject: Info from Server @Home
+MIME-Version: 1.0
+Content-Type: text/plain
